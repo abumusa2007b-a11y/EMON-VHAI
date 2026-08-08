@@ -384,8 +384,7 @@ async def asyncio_sleep(seconds):
 
 async def main():
 
-    if not BOT_TOKEN:8912701722:AAGQ56NXNLhhRtZ4JOvxrl3qWEbrF7SzElg
-
+    if not BOT_TOKEN:
         print(
             "ERROR: BOT_TOKEN is not configured."
         )
