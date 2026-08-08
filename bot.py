@@ -17,7 +17,7 @@ from telegram.ext import (
 # =========================================================
 
 BOT_TOKEN = os.getenv("8912701722:AAGQ56NXNLhhRtZ4JOvxrl3qWEbrF7SzElg")
-CHAT_ID = os.getenv("4400411528")
+CHAT_ID = os.getenv("-1004400411528")
 
 API_URL = (
     "https://draw.ar-lottery01.com/"
